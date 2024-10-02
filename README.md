@@ -1,8 +1,8 @@
-# Programação Mobile com React Native (NFT07)
+# Desenvolvimento para Dispositivos Móveis (NFT09)
 
 ## Ementa
 
-Esta disciplina introduz o desenvolvimento mobile multiplataforma utilizando [React Native](https://reactnative.dev/). Serão abordados conceitos teóricos sobre a história do desenvolvimento mobile, evolução das tecnologias e o mercado de trabalho atual. O curso terá uma abordagem prática, com foco no desenvolvimento de aplicativos móveis para Android e iOS, utilizando JavaScript e React Native, sem a necessidade de publicação em lojas de aplicativos.
+Esta disciplina introduz o desenvolvimento mobile multiplataforma. Serão abordados conceitos teóricos sobre a história do desenvolvimento mobile, evolução das tecnologias e o mercado de trabalho atual. O curso terá uma abordagem prática, com foco no desenvolvimento de aplicativos móveis para Android e iOS, utilizando JavaScript e React Native, sem a necessidade de publicação em lojas de aplicativos.
 
 ### Carga Horária
 

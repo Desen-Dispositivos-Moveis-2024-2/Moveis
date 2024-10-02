@@ -56,7 +56,7 @@ A nota final da disciplina será composta da seguinte forma:
 - **20%** - Trabalhos (projetos e atividades práticas) - **T**
 - **20%** - Atividades em sala (exercícios, participação) - **AS**
 - **40%** - Provas (avaliações teóricas e práticas) - **P**
-- **20%** - **NC** (Nota de Caráter)
+- **20%** - **NC**
 
 A fórmula para o cálculo da nota final (**NF**) é:
 

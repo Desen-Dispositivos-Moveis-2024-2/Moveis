@@ -93,85 +93,103 @@ NF = (0,20 × 8,0) + (0,20 × 9,0) + (0,40 × 7,5) + (0,20 × 10,0) NF = 1,6 + 1
 - **Avaliações**: As provas serão realizadas nas aulas 7 e 14, divididas em metade da aula para prova teórica e metade para prova prática.
 - **Observação**: Não será necessária a publicação dos aplicativos em lojas como Google Play Store ou Apple App Store.
 
-## Estrutura de Aulas
+## Estrutura de Aulas (20 Aulas)
 
-1. **Aula 1: História do Desenvolvimento Mobile**
-   - Evolução dos dispositivos móveis
-   - Principais sistemas operacionais e plataformas
-   - Tendências atuais no desenvolvimento mobile
+### **1. Aula 1: História e Configuração do Ambiente**
+   - História do desenvolvimento mobile.
+   - Evolução dos dispositivos móveis e principais plataformas.
+   - Configuração do ambiente de desenvolvimento (Node.js, npm, Android Studio, Xcode, Expo CLI, React Native CLI).
 
-2. **Aula 2: Introdução ao React Native**
-   - História e evolução do React Native
-   - Vantagens e desvantagens
-   - Comparação com outras tecnologias (Flutter, Ionic)
+### **2. Aula 2: Fundamentos de Dispositivos Móveis e React Native**
+   - Características dos dispositivos móveis: telas pequenas, sensores e recursos de hardware.
+   - Introdução ao React Native: estrutura de um projeto.
+   - Componentes básicos (View, Text, Image).
+   - Estilização com StyleSheet.
 
-3. **Aula 3: Configuração do Ambiente de Desenvolvimento**
-   - Instalação do Node.js e npm
-   - Configuração do Android Studio e/ou Xcode
-   - Utilização do Expo CLI e React Native CLI
+### **3. Aula 3: Layouts e Flexbox em Dispositivos Móveis**
+   - Conceitos de Flexbox no React Native.
+   - Criação de layouts responsivos para diferentes tamanhos de tela.
+   - Prática de desenvolvimento de interfaces flexíveis.
 
-4. **Aula 4: Fundamentos do React Native**
-   - Estrutura de um projeto React Native
-   - Componentes básicos (View, Text, Image)
-   - Estilização com StyleSheet
+### **4. Aula 4: Interação com Componentes e APIs Nativos**
+   - Utilização de componentes interativos como ScrollView, TextInput, Button.
+   - Acesso a APIs nativas (Alert, Clipboard).
+   - Gerenciamento de recursos e assets.
 
-5. **Aula 5: Layouts e Flexbox**
-   - Conceitos de Flexbox no React Native
-   - Criação de layouts responsivos
-   - Prática de desenvolvimento de interfaces
+### **5. Aula 5: Desenvolvimento de Interfaces Mobile**
+   - Prática de desenvolvimento de interfaces avançadas para mobile.
+   - Introdução à animação de elementos de UI.
+   - Estilização avançada com CSS e bibliotecas de terceiros.
 
-6. **Aula 6: Componentes e APIs Nativos**
-   - Utilização de componentes como ScrollView, TextInput, Button
-   - Acesso a APIs nativas (Alert, Clipboard)
-   - Gerenciamento de recursos e assets
+### **6. Aula 6: Revisão Geral e Seminário**
+   - Revisão dos conteúdos abordados nas aulas anteriores.
+   - Apresentação do **Seminário** pelos alunos sobre temas relacionados a dispositivos móveis e desenvolvimento com React Native.
+   - Discussão em grupo e feedback.
 
-7. **Aula 7: **Avaliação 1**
-   - **Metade da aula**: Prova teórica (conteúdos das aulas 1 a 6)
-   - **Metade da aula**: Prova prática (exercícios de programação)
+### **7. Aula 7: Avaliação 1**
+   - **Metade da aula**: Prova teórica (conteúdos das aulas 1 a 5).
+   - **Metade da aula**: Prova prática (exercícios de programação com React Native).
 
-8. **Aula 8: Navegação entre Telas**
-   - Introdução ao React Navigation
-   - Navegação stack, tab e drawer
-   - Passagem de parâmetros entre telas
+### **8. Aula 8: Navegação entre Telas no React Native**
+   - Introdução ao React Navigation.
+   - Navegação stack, tab e drawer.
+   - Passagem de parâmetros entre telas.
 
-9. **Aula 9: Consumo de APIs e Axios**
-   - Requisições HTTP com Axios ou Fetch API
-   - Manipulação de dados JSON
-   - Atualização da interface com dados externos
+### **9. Aula 9: Consumo de APIs com Axios ou Fetch API**
+   - Requisições HTTP com Axios ou Fetch API.
+   - Manipulação de dados JSON.
+   - Atualização da interface com dados externos.
 
-10. **Aula 10: Gerenciamento de Estado**
-    - Introdução ao Redux ou Context API
-    - Gerenciamento de estado global
-    - Boas práticas de organização
+### **10. Aula 10: Gerenciamento de Estado em Aplicações Mobile**
+   - Introdução ao Redux e Context API.
+   - Gerenciamento de estado global em React Native.
+   - Boas práticas de organização de estado em aplicações móveis.
 
-11. **Aula 11: Integração com Recursos Nativos**
-    - Acesso à câmera e galeria de fotos
-    - Utilização de geolocalização
-    - Notificações push (conceitos básicos)
+### **11. Aula 11: Integração com Recursos Nativos e Sensores**
+   - Acesso à câmera e galeria de fotos.
+   - Utilização de geolocalização e sensores móveis.
+   - Introdução a notificações push.
 
-12. **Aula 12: Otimização e Performance**
-    - Melhores práticas para performance
-    - Análise e debugging de aplicativos
-    - Técnicas de otimização de imagens e assets
+### **12. Aula 12: Desempenho em Aplicações Mobile**
+   - Melhores práticas para otimização de performance em aplicativos React Native.
+   - Análise e debugging de aplicativos mobile.
+   - Técnicas de otimização de imagens e assets.
 
-13. **Aula 13: Publicação e Distribuição Interna**
-    - Geração de builds para Android e iOS
-    - Testes em dispositivos físicos
-    - Distribuição interna sem necessidade de lojas
+### **13. Aula 13: Publicação e Distribuição de Aplicativos**
+   - Geração de builds para Android e iOS.
+   - Testes em dispositivos físicos e emuladores.
+   - Processos de distribuição interna sem necessidade de lojas de aplicativos.
 
-14. **Aula 14: **Avaliação 2**
-    - **Metade da aula**: Prova teórica (conteúdos das aulas 8 a 13)
-    - **Metade da aula**: Prova prática (exercícios com React Native)
+### **14. Aula 14: Boas Práticas em Aplicativos Mobile**
+   - Padrões de design para interfaces móveis.
+   - Acessibilidade em aplicativos móveis.
+   - Preparação para entrevistas técnicas no mercado de trabalho.
 
-15. **Aula 15: Mercado de Trabalho e Boas Práticas**
-    - Panorama do mercado de desenvolvimento mobile
-    - Preparação para entrevistas técnicas
-    - Construção de portfólio e projetos pessoais
+### **15. Aula 15: Introdução a Aplicações Multiplataforma**
+   - Comparação entre React Native, Flutter e outras ferramentas de desenvolvimento multiplataforma.
+   - Vantagens e desvantagens das abordagens multiplataforma.
 
-16. **Aula 16: Projeto Final e Apresentação**
-    - Finalização do projeto prático
-    - Revisão dos conceitos aprendidos
-    - Apresentação dos projetos desenvolvidos
+### **16. Aula 16: Revisão Geral e Prática**
+   - Revisão dos conceitos abordados até agora.
+   - Sessão prática de desenvolvimento com React Native.
+
+### **17. Aula 17: Desenvolvimento do Projeto Final**
+   - Início do desenvolvimento do projeto prático individual.
+   - Aplicação dos conceitos de React Native, consumo de APIs e navegação.
+
+### **18. Aula 18: Refinamento do Projeto Final e Testes**
+   - Refinamento do projeto prático.
+   - Testes de performance e usabilidade.
+   - Correção de bugs e melhorias.
+
+### **19. Aula 19: Prova 2**
+   - **Metade da aula**: Prova teórica (conteúdos das aulas 8 a 18).
+   - **Metade da aula**: Prova prática (exercícios com React Native).
+
+### **20. Aula 20: Entrega do Trabalho de Extensão e Nota de Cara**
+   - Entrega e apresentação final do trabalho de extensão (projeto prático).
+   - Atribuição da **Nota de Cara** (comportamento, engajamento e participação).
+
 
 ---
 
